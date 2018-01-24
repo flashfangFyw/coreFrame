@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: b40f4e63e17c0604db7bad002abfc471
+timeCreated: 1488522586
+licenseType: Pro
+ShaderImporter:
+  defaultTextures:
+  - _HologramTex: {fileID: 2800000, guid: d014008621d9f1d4f800ca0e2ef09083, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
